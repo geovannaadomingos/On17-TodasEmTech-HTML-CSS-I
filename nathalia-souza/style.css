@@ -1,0 +1,48 @@
+
+*{
+    background-color: rgb(10, 10, 10);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.header-titulo{
+    color: rgb(238, 18, 18) ;
+    
+}
+
+
+.header_div-img{
+ width: 100%;
+ border: solid;
+ height: 400px;
+}
+
+.header-photo{
+    width: 160px;
+    padding: 1%;
+    height: 200px;
+}
+
+.botao{
+        background-color: rgba(139, 35, 35, 0.5);
+        border: none;
+        color: rgb(235, 18, 18);
+    
+        padding:15px 50px;
+        margin-right: 15px;
+        color: rgb(235, 18, 18);
+    
+        
+        
+    }
+
+    .text{
+        color: beige;
+        display: inline-flexbox;
+    }
+
+    
+
